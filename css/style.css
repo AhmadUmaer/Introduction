@@ -41,10 +41,6 @@ p{
   color: #071C21;
 }
 
-.card{
-  margin-top: 5%
-}
-
 .card-color{
   background-color: #153B44;
   text-align: center;
@@ -60,7 +56,7 @@ p{
 }
 
 .card-holder{
-  margin-top: 5%
+  margin-top: 5%;
   padding: 3% 2% 3% 2%;
 }
 
