@@ -41,6 +41,10 @@ p{
   color: #071C21;
 }
 
+.card{
+  margin-top: 5%;
+}
+
 .card-color{
   background-color: #153B44;
   text-align: center;
