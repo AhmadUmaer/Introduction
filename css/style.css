@@ -45,6 +45,10 @@ p{
   margin-top: 5%;
 }
 
+.card-body{
+  margin-top: 5%;
+}
+
 .card-color{
   background-color: #153B44;
   text-align: center;
