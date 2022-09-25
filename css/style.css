@@ -55,6 +55,10 @@ p{
   padding-bottom: 10%;
 }
 
+.card{
+  padding-top: 5%
+}
+
 .card-holder{
   padding: 3% 2% 3% 2%;
 }
