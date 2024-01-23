@@ -252,8 +252,16 @@ p{
   flex-wrap: wrap;
 }
 
+.footerbody{
+  text-align: center;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+}
+
 .footerfont{
   padding-top: 20px;
   color: #B8F1B0;
   font-family: Helvetica, sans-serif;
+  text-align: center;
+  align-items: center;
 }
