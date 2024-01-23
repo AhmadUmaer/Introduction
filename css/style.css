@@ -186,6 +186,7 @@ p{
 
 .section-paragraph{
   font-family: Helvetica, sans-serif;
+  text-align: justify;
 }
 
 .sideimage{
@@ -249,4 +250,10 @@ p{
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.footerfont{
+  padding-top: 20px;
+  color: #B8F1B0;
+  font-family: Helvetica, sans-serif;
 }
